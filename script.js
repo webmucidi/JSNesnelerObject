@@ -32,7 +32,7 @@ async function gitGetir(){
     const kaynak=await fetch('data.json');
     let veriler=await kaynak.json();
     console.log(veriler);
-
+    console.log("veriler");
     veriler.ogrenciler.forEach(element => {
         let yeniOgrenci=document.createElement("li");
         document.getElementById("ogrenciler").appendChild(yeniOgrenci);
