@@ -1,0 +1,28 @@
+{
+    "ogrenciler":[
+    {
+        "ad":"Ahmet",
+        "soyad":"İlbars",
+        "no":"9842",
+        "telNo":"5551112233"
+    },
+    {
+        "ad":"Mehmet",
+        "soyad":"Demir",
+        "no":"9800",
+        "telNo":"5551112233"
+    },
+    {
+        "ad":"Ayşe",
+        "soyad":"Çelik",
+        "no":"8842",
+        "telNo":"5551112233"
+    },
+    {
+        "ad":"Fatma",
+        "soyad":"Bakır",
+        "no":"8322",
+        "telNo":"5551112233"
+    } 
+]
+}
